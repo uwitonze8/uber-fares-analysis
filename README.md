@@ -2,7 +2,7 @@
 
 ## Course Information  
 - Course: Introduction to Big Data Analytics (INSY 8413)  
-- Instructor: Eric Maniraguha ([eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw))  
+- Instructor: Eric Maniraguha  
 - Assignment: Uber Fares Dataset Analysis using Power BI  
 - Assignment Date: July 20–25, 2025  
 
